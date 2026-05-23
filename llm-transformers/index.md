@@ -15,7 +15,8 @@ tags: [home, dashboard, llm, transformers, course]
 
 | # | Topic | Status | Note |
 |---|-------|--------|------|
-| 01 | Evolution of Language Representations | in-progress | [[lectures/01-language-representations]] |
+| 01 | Evolution of Language Representations | done | [[lectures/01-language-representations]] |
+| 02 | Word2Vec and Vector Embeddings | in-progress | [[lectures/02-word2vec-embeddings]] |
 
 ---
 
@@ -23,9 +24,9 @@ tags: [home, dashboard, llm, transformers, course]
 
 | Concept | Status | Note |
 |---------|--------|------|
-| Bag of Words | in-progress | [[concepts/bag-of-words]] |
-| Word2Vec | todo | [[concepts/word2vec]] |
-| Tokenization | todo | [[concepts/tokenization]] |
+| Bag of Words | done | [[concepts/bag-of-words]] |
+| Word2Vec | in-progress | [[concepts/word2vec]] |
+| Tokenization | in-progress | [[concepts/tokenization]] |
 | Encoder-only models | todo | [[concepts/encoder-only]] |
 | Decoder-only models | todo | [[concepts/decoder-only]] |
 | Encoder-decoder models | todo | [[concepts/encoder-decoder]] |

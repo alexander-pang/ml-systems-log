@@ -1,6 +1,6 @@
 ---
 title: Tokenization
-status: todo
+status: in-progress
 date: 2026-05-22
 tags: [concept, tokenization, vocabulary, preprocessing]
 ---
@@ -9,7 +9,11 @@ tags: [concept, tokenization, vocabulary, preprocessing]
 
 The process of splitting raw text into discrete units (tokens) that a model can process.
 
-*Next lecture covers this in depth — stub for now.*
+Tokenizers have a **fixed vocabulary** — they cannot represent every possible word, so they split unknown words into sub-word pieces.
+
+Example: `vocalization → ["vocal", "ization"]`
+
+*More detail coming in the dedicated tokenization lecture.*
 
 ---
 
